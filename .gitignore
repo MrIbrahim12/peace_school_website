@@ -4,6 +4,9 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Old frontend folder (moved to root)
+frontend/
+
 # Next.js
 .next/
 out/
